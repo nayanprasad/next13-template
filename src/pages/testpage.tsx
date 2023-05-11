@@ -1,8 +1,9 @@
 
-const testpage = () => 
+const Testpage = () => 
 {
     return <div>testpage</div>;
+
 };
 
-export default testpage;
+export default Testpage;
 

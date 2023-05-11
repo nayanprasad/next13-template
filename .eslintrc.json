@@ -32,8 +32,9 @@
     ],
     "curly": [
       "warn",
-      "multi"
+      "all"
     ],
+    "no-extra-semi": "error",
     "comma-spacing": "warn",
     "eol-last": "warn",
     "eqeqeq": "error",
