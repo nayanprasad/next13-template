@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe45de4b-bbe7-4dec-b5fc-e287451cbe18" name="Changes" comment="added auto refresh">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/next.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vercel.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
-    </list>
+    <list default="true" id="fe45de4b-bbe7-4dec-b5fc-e287451cbe18" name="Changes" comment="." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,9 +30,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;js.linters.configure.manually.selectedeslint&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/nayanprasad/Documents/WedD/lamsta/next13-template&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;ts.external.directory.path&quot;: &quot;/home/nayanprasad/Documents/WedD/lamsta/next13-template/node_modules/typescript/lib&quot;,
@@ -52,6 +50,11 @@
         <entry key="com.haulmont.rcb.reactInspector" value="false" />
       </map>
     </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
@@ -79,7 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1683790556687</updated>
       <workItem from="1683790558673" duration="741000" />
-      <workItem from="1683792037437" duration="664000" />
+      <workItem from="1683792037437" duration="5785000" />
     </task>
     <task id="LOCAL-00001" summary="added new next app">
       <created>1683792065921</created>
@@ -102,7 +105,56 @@
       <option name="project" value="LOCAL" />
       <updated>1683792183970</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="removed unnecessary things">
+      <created>1683792745180</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1683792745180</updated>
+    </task>
+    <task id="LOCAL-00005" summary=".">
+      <created>1683792774211</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1683792774211</updated>
+    </task>
+    <task id="LOCAL-00006" summary=".">
+      <created>1683792960050</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1683792960050</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added eslint configuration">
+      <created>1683794967793</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1683794967793</updated>
+    </task>
+    <task id="LOCAL-00008" summary="changed configuration in eslint">
+      <created>1683796518955</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1683796518955</updated>
+    </task>
+    <task id="LOCAL-00009" summary="added huskey">
+      <created>1683797313705</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1683797313705</updated>
+    </task>
+    <task id="LOCAL-00010" summary=".">
+      <created>1683797326883</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1683797326883</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,6 +165,11 @@
     <MESSAGE value="added new next app" />
     <MESSAGE value="new" />
     <MESSAGE value="added auto refresh" />
-    <option name="LAST_COMMIT_MESSAGE" value="added auto refresh" />
+    <MESSAGE value="removed unnecessary things" />
+    <MESSAGE value="added eslint configuration" />
+    <MESSAGE value="changed configuration in eslint" />
+    <MESSAGE value="added huskey" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
 </project>
