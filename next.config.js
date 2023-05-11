@@ -1,7 +1,11 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  reactStrictMode: true,
-  reactRefresh: true,
-}
+    reactStrictMode: true,
+    reactRefresh: true,
 
-module.exports = nextConfig
+    // eslint: {
+    //   dirs: ["src", "pages", ""],
+    // },
+};
+
+module.exports = nextConfig;
