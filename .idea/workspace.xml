@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe45de4b-bbe7-4dec-b5fc-e287451cbe18" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    <list default="true" id="fe45de4b-bbe7-4dec-b5fc-e287451cbe18" name="Changes" comment="added auto refresh">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/next.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vercel.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +79,30 @@
       <option name="presentableId" value="Default" />
       <updated>1683790556687</updated>
       <workItem from="1683790558673" duration="741000" />
+      <workItem from="1683792037437" duration="664000" />
     </task>
+    <task id="LOCAL-00001" summary="added new next app">
+      <created>1683792065921</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683792065921</updated>
+    </task>
+    <task id="LOCAL-00002" summary="new">
+      <created>1683792117620</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1683792117620</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added auto refresh">
+      <created>1683792183970</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1683792183970</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,5 +110,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="added new next app" />
+    <MESSAGE value="new" />
+    <MESSAGE value="added auto refresh" />
+    <option name="LAST_COMMIT_MESSAGE" value="added auto refresh" />
   </component>
 </project>
